@@ -1,0 +1,33 @@
+
+#inp{
+    padding: 20px;
+    border: 1px solid lightgray;
+    background-color: rgb(173, 203, 230);
+    border-radius: 10px;
+}
+#inp input{
+    height: 30px;
+    width: 90%;
+    border: 0px solid lightblue;
+    border-radius: 30px;
+    font-size: 1.2em;
+    margin-left: 10px;
+}
+#inp button{
+    height: 30px;
+    margin-left: 5px;
+    border-radius: 25px;
+    border: 0px solid;
+    background-color: green;
+    font-size: 1.2em;
+    width: 100px;
+    color: white;
+}
+#temperature img{
+    width: 700px;
+    height: 300px;
+    padding: 5px;  
+}
+#temperature p{
+    font-size: 1.1em;
+}
